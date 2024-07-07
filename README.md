@@ -1,7 +1,7 @@
 # Introduction
 Official code of the paper [DICE: End-to-end Deformation Capture of Hand-Face Interactions from a Single Image](https://arxiv.org/abs/2406.17988).
 
-[Project Page] [[Paper]](https://arxiv.org/abs/2406.17988) [[Video]](https://www.youtube.com/watch?v=4ZuZveSElWE)
+[【Project Page]](https://frank-zy-dou.github.io/projects/DICE/index.html) [[Paper]](https://arxiv.org/abs/2406.17988) [[Video]](https://www.youtube.com/watch?v=4ZuZveSElWE)
 
 ![Screenshot 2024-07-06 at 17 16 09](https://github.com/Qingxuan-Wu/DICE/assets/174913120/1c9494e3-d2f3-4f39-891d-dc0efcf49cd5)
 
