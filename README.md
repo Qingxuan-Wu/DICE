@@ -9,10 +9,10 @@ Abstract: Reconstructing 3D hand-face interactions with deformations from a sing
 
 # Citation
 ```
-@article{wu2024dice,
+@inproceedings{wudice,
   title={DICE: End-to-end Deformation Capture of Hand-Face Interactions from a Single Image},
   author={Wu, Qingxuan and Dou, Zhiyang and Xu, Sirui and Shimada, Soshi and Wang, Chen and Yu, Zhengming and Liu, Yuan and Lin, Cheng and Cao, Zeyu and Komura, Taku and others},
-  journal={arXiv preprint arXiv:2406.17988},
-  year={2024}
+  booktitle={The Thirteenth International Conference on Learning Representations},
+  year={2025}
 }
 ```
