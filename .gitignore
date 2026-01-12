@@ -1,0 +1,70 @@
+# compilation and distribution
+__pycache__
+_ext
+*.pyc
+*.so
+build/
+dist/
+*.egg-info/
+
+# pytorch/python formats
+*.pth
+*.pkl
+*.pt
+
+# ipython/jupyter notebooks
+**/.ipynb_checkpoints/
+
+# Editor temporaries
+*.swn
+*.swo
+*.swp
+*~
+
+# Pycharm editor settings
+.idea
+
+# VS code 
+.vscode
+
+# MacOS
+.DS_Store
+
+# project dirs
+/data
+/datasets
+models
+output
+output_hrnet64
+output_resnet50
+exps
+predictions
+hand_face_videos
+
+# hidden folder for aml configs
+.azureml
+.git
+
+# debug visualizations
+debug_files
+
+# wandb files
+wandb
+
+# export files
+*.tar 
+*.tar.gz
+
+# human model files
+*.pkl
+*.npz
+*.npy
+
+# ubody test files
+ubody_test
+
+# render images
+render_imgs
+
+# model checkpoints
+*.bin

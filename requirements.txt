@@ -1,0 +1,17 @@
+--extra-index-url https://download.pytorch.org/whl/cu124
+yacs
+cython
+opencv-python
+tqdm
+nltk
+scipy
+chumpy
+boto3
+requests
+torch==2.4.0+cu124
+torchvision==0.19.0+cu124
+numpy==1.23.5
+imgaug
+pysdf
+wandb
+plyfile
